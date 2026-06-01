@@ -1,4 +1,5 @@
 # Social-Media-Sentiment-Analysis-Power-BI-Dashboard
+# https://www.linkedin.com/posts/bunty-debnath-53624440b_powerbi-dataanalytics-socialmediaanalytics-share-7467233340425883648-W788/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGiCKfoB6fTH7LYldICPJpAdbH1uJpijILY
 This Power BI dashboard provides a comprehensive view of a client's social media performance across multiple platforms including X (Twitter), Meta, Instagram, Snapchat, and YouTube. It enables marketers and analysts to monitor, compare, and analyze key engagement and revenue metrics in one centralized view.
 Key Features:
 
